@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+*{
+      box-sizing: border-box;
+      margin: 0px;
+      padding: 0px;
+      font-family: "Sora", sans-serif;
+}
+
+body{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding-top: 164px;
+      background-color: #FAFAF9;
+}
+
+main {
+      padding: 16px;
+      width: 368px;
+      border-radius: 0.75rem;
+      background-color: white;
+}
+
+img{
+      width: 336px;
+      height: 152px;
+      margin-bottom: 16px;
+      border-radius: 0.75rem;
+}
+
+#design{
+      padding: 6px 19px;
+      border-radius: 3rem;
+      background-color: #E6D6FC;
+      color: #883AE1;
+      width: fit-content;
+      font-size: 10px;
+      font-weight: 600;
+      margin-bottom: 16px;
+}
+
+h1{
+      font-size: 18px;
+      margin-bottom: 6px;
+}
+
+#info{
+      font-size: 14px;
+      padding-bottom: 20px;
+      color: #6C727F;
+      
+}
+
+#footer{
+      border-top: 1px solid #E5EAF0;
+      color: #6C727F;
+      font-size: 12px;
+      padding-top: 20px;
+
+}
+
