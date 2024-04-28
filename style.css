@@ -21,7 +21,7 @@ main {
       width: 368px;
       border-radius: 0.75rem;
       background-color: white;
-      box-shadow: 2px 2px 7px #E5EAF0;
+      box-shadow: 2px 2px 10px #E5EAF0;
 }
 
 img{
@@ -37,7 +37,7 @@ img{
       background-color: #E6D6FC;
       color: #883AE1;
       width: fit-content;
-      font-size: 2px;
+      font-size: 10px;
       font-weight: 600;
       margin-bottom: 16px;
 }
